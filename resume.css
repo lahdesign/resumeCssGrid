@@ -1,0 +1,58 @@
+body {
+    margin: 40px;
+    font-family: Verdana, Geneva, sans-serif;
+    color: #2F4F4F;
+    background-image: url('../images/grid.png');
+  }
+  
+  .masthead {
+    margin-bottom: 60px;
+  }
+  
+  .masthead h1 {
+    margin: 0;
+    font-size: 4em;
+    text-transform: lowercase;
+    color: #1E90FF;
+  }
+  
+  .masthead h2 {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 2em;
+  }
+  
+  section h1 {
+    text-transform: uppercase;
+    font-weight: normal;
+    letter-spacing: 1px;
+    color: #1E90FF;
+  }
+  
+  section h3 {
+    color: #708090;
+    font-weight: normal;
+  }
+  
+  ul, dl, h3 {
+    margin-left: 60px;
+    padding-left: 0;
+    list-style: none;
+    line-height: 1.6em;
+  }
+  
+  ul, dl {
+    margin-bottom: 40px;
+  }
+  
+  dd {
+    font-style: italic;
+    color: #708090;
+  }
+  
+  time {
+    margin-right: 10px;
+    font-weight: bold;
+  }
